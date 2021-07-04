@@ -22,6 +22,7 @@ import java.util.HashSet;
 
 public class ContainDuplicate {
     public static void main(String[] args) {
+        //inisialisasi dulu array tersebut
         int[] nums = new int[]{1, 3, 4, 5, 1};
         System.out.println(containsDuplicate(nums));
 
